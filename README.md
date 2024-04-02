@@ -1,0 +1,1 @@
+A recipes webpage with index.html linking to three different recipes in the recipes directory. Each recipe contains an image of the dish linked from the images directory, a description, an unordered list of ingredients followed by an ordered list of steps, and their respective headings.
