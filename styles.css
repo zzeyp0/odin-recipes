@@ -1,0 +1,42 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
+
+h2{
+    font-weight: bold;
+}
+
+.bread{
+    color: blue;
+}
+
+h2.bread{
+    background-color: rgb(135, 218, 190);
+}
+
+.center.bread{
+    color: blue;
+    background-color: rgb(135, 218, 190);
+}
+
+.soup{
+    color: rgb(88, 20, 20);
+    background-color: rosybrown;
+}
+
+.smoothie{
+    color: rgb(70, 0, 128);
+    background-color: plum;
+}
